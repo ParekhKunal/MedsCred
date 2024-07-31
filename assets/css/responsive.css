@@ -2215,10 +2215,10 @@
     filter: brightness( 100% ) contrast( 10% ) saturate( 100% ) blur( 0px ) hue-rotate( 0deg );
 }
 .rs-partner.partner-style2.partner-modify1 .slider .partner-item .logo-img a .mains-logos{
-    filter: brightness( 100% ) contrast( 19% ) saturate( 100% ) blur( 0px ) hue-rotate( 0deg );
+    /* filter: brightness( 100% ) contrast( 19% ) saturate( 100% ) blur( 0px ) hue-rotate( 0deg ); */
 }
 .rs-partner.partner-style2.partner-modify1 .slider .partner-item:hover .logo-img a .mains-logos{
-    filter: brightness( 0% ) contrast( 0% ) saturate( 100% ) blur( 0px ) hue-rotate( 0deg );
+    /* filter: brightness( 0% ) contrast( 0% ) saturate( 100% ) blur( 0px ) hue-rotate( 0deg ); */
 }
 .rs-banner.banner-style10 .banner-animate .bnr-animation.two img{
     filter: brightness( 119% ) contrast( 85% ) saturate( 48% ) blur( 0px ) hue-rotate( 257deg );
